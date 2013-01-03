@@ -1,28 +1,30 @@
-========================================================================
-==================       KineType Auto Typer        ====================
-========================================================================
+======================================
+==        EyeType Auto Typer        ==
+======================================
 
-License:        Attribution 3.0 United States (CC BY 3.0)
-Author:         Jaydn C. (KineticSquared)
-Email:          jaydn at eyeserve dot net
+License:        GNU Affero General Public License, version 3
+Author:         Jordan Donaldson (Jordohio)
+Email:          jordan at eyeserve dot net
 
-========================================================================
-===================            NOTES               =====================
-========================================================================
+======================================
+==              NOTES               ==
+======================================
+- Current Version -
+* No current release at this time.
 
+- Indev 0.1 -
 * Just a quick release, not complete at all.
 * Only lowercase letters.
 * No option to turn off by pressing enter.
 
-========================================================================
-===================        WHAT YOU NEED           =====================
-========================================================================
+======================================
+==          WHAT YOU NEED           ==
+======================================
 
 - Windows
-	- Runs on windows perfectly.
-	- Not tested on Linux.
-	- Confirmed to not work on Mac.
+* Not (yet) tested on Linux
+* Not tested on Mac (Most likely will not work.)
 
 - Java 6/7
 
-========================================================================
+========================================
